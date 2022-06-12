@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pillow = "*"
+ansi = "*"
+scipy = "*"
+pywavelets = "*"
+qrcode = "*"
+pyzbar = "*"
+pyzxing = "*"
+qrcodeutil = "*"
+zxing-cpp = "*"
+deqr = "*"
+
+[dev-packages]
